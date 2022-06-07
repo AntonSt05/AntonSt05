@@ -7,7 +7,7 @@
 
 <h2 align="center">My projects 👨‍💻</h2>
 <p align="center" style="font-size:120%">
-  <samp>Check out my projects: <a href="https://github.com/gard65/cartWeb" target="_blank" style="font-size:130%">Попутка</a>
+  <samp>Check out my projects: <a href="https://github.com/AntonSt05/cartWeb" target="_blank" style="font-size:130%">Попутка</a>
   </samp>
   <br> <br>
  <br> <br>
